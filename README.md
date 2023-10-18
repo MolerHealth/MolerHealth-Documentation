@@ -46,4 +46,4 @@ Together, we can revolutionize healthcare in Nigeria, ensuring a healthier futur
 
 ---
 
-For more information, contributions, or queries, please reach out. Together, we can make healthcare in Nigeria better, one record at a time.
+For more information, contributions, or queries, please reach out to onabajofunmilayo@gmail.com. Together, we can make healthcare in Nigeria better, one record at a time.
