@@ -46,8 +46,9 @@
 * Train the team on incident response procedures.
 * Security Training and Awareness: Educate the development team and other project stakeholders on cybersecurity best practices and the importance of data security.
 * Promote a culture of cybersecurity awareness within the project.
-* Vulnerability Assessment: Conduct regular vulnerability assessments and penetration testing to identify and address potential weaknesses in the system.
-* Collaborate with developers to resolve security issues.
+- Vulnerability Assessment:
+   * Conduct regular vulnerability assessments and penetration testing to identify and address potential weaknesses in the system.
+   * Collaborate with developers to resolve security issues.
 - Security Updates and Patch Management:
   * Stay updated on security threats and vulnerabilities and apply security patches and updates to the system as needed.
   * Ensure that the infrastructure and software used are maintained securely.
