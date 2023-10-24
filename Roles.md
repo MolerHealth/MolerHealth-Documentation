@@ -48,11 +48,9 @@
 * Promote a culture of cybersecurity awareness within the project.
 * Vulnerability Assessment: Conduct regular vulnerability assessments and penetration testing to identify and address potential weaknesses in the system.
 * Collaborate with developers to resolve security issues.
-
-
-Security Updates and Patch Management:
-Stay updated on security threats and vulnerabilities and apply security patches and updates to the system as needed.
-Ensure that the infrastructure and software used are maintained securely.
-Documentation and Reporting:
-Maintain detailed records of security assessments, incidents, and actions taken.
-Provide regular security reports to product managers and stakeholders.
+- Security Updates and Patch Management:
+  * Stay updated on security threats and vulnerabilities and apply security patches and updates to the system as needed.
+  * Ensure that the infrastructure and software used are maintained securely.
+- Documentation and Reporting:
+  * Maintain detailed records of security assessments, incidents, and actions taken.
+  * Provide regular security reports to product managers and stakeholders.
