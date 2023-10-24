@@ -1,7 +1,7 @@
 # Discovery Phase:-  Phase 1: Project Inception and Planning
 
 ## Project Definition and Goal Setting:
-[ ] Define the project's mission
+- [ ] Define the project's mission
 [ ] Define project's vision
 [ ] Define Project's goals.
 [ ] Establish clear objectives, including the reduction of disease misdiagnosis rates in Nigeria.
