@@ -1,4 +1,4 @@
-# Discovery Phase: Phase 1: Project Inception and Planning
+# Phase 1: Project Inception and Planning
 
 ## Project Definition and Goal Setting
 - [ ] Define the project's mission
