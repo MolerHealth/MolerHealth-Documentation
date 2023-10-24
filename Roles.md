@@ -34,18 +34,24 @@
 * User Profile Management: Allow users to update their profiles and manage their health records through the frontend interface.
 * Cross-Browser and Device Compatibility: Ensure the application works smoothly on various web browsers and devices, including mobile and tablets.
 ### Cybersecurity Specialist
-* Security Assessment and Planning: Conduct a comprehensive security assessment to identify potential vulnerabilities and threats to the application.
-* Develop a cybersecurity strategy and security policy for the project.
-* Data Encryption: Implement encryption protocols to protect sensitive patient data during transmission and storage.
-* Ensure that data at rest and data in transit are adequately secured.
-* Threat Detection and Prevention: Set up intrusion detection systems and security monitoring tools to identify and mitigate security threats in real time.
-* Develop and implement firewalls and access controls to prevent unauthorized access.
-* Security Compliance: Ensure that the application complies with relevant data protection and healthcare regulations, such as HIPAA or GDPR, depending on the context.
-* Perform regular compliance audits and assessments.
-* Incident Response Planning: Develop an incident response plan to handle security breaches or data breaches promptly and effectively.
-* Train the team on incident response procedures.
-* Security Training and Awareness: Educate the development team and other project stakeholders on cybersecurity best practices and the importance of data security.
-* Promote a culture of cybersecurity awareness within the project.
+* Security Assessment and Planning:
+  * Conduct a comprehensive security assessment to identify potential vulnerabilities and threats to the application.
+  * Develop a cybersecurity strategy and security policy for the project.
+* Data Encryption:
+  * Implement encryption protocols to protect sensitive patient data during transmission and storage.
+  * Ensure that data at rest and data in transit are adequately secured.
+* Threat Detection and Prevention:
+  * Set up intrusion detection systems and security monitoring tools to identify and mitigate security threats in real time.
+  * Develop and implement firewalls and access controls to prevent unauthorized access.
+* Security Compliance:
+  * Ensure that the application complies with relevant data protection and healthcare regulations, such as HIPAA or GDPR, depending on the context.
+  * Perform regular compliance audits and assessments.
+* Incident Response Planning:
+  * Develop an incident response plan to handle security breaches or data breaches promptly and effectively.
+  * Train the team on incident response procedures.
+* Security Training and Awareness:
+  * Educate the development team and other project stakeholders on cybersecurity best practices and the importance of data security.
+  * Promote a culture of cybersecurity awareness within the project.
 - Vulnerability Assessment:
    * Conduct regular vulnerability assessments and penetration testing to identify and address potential weaknesses in the system.
    * Collaborate with developers to resolve security issues.
